@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #000080;
+    color: #ffffff;
+    padding: 10px;
+}
+
+header h1 {
+    margin: 0;
+    padding: 0;
+}
+
+header img {
+    float: right;
+    width: 100px;
+}
+
+main {
+    padding: 20px;
+}
+
+.banner {
+    background-color: #fffacd;
+    padding: 10px;
+}
+
+.banner h2 {
+    margin: 0;
+    padding: 0;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.banner a {
+    background-color: #000080;
+    color: #ffffff;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+.productos {
+    padding: 10px;
+}
+
+.productos h2 {
+    margin: 0;
+    padding: 0;
+}
+
+.productos ul {
+    list-style: none;
+    padding: 0;
+}
+
+.productos li {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.productos li img {
+    width: 100px;
+}
+
+.productos li h3 {
+    margin: 0;
+    padding: 0;
+}
+
+.productos li p {
+    margin: 0;
+    padding: 0;
+}
+
+.productos li a {
+    background-color: #000080;
+    color: #ffffff;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+.servicios {
+    padding: 10px;
+}
+
+.
